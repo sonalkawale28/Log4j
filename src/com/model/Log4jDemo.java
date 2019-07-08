@@ -13,6 +13,7 @@ public class Log4jDemo {
 		logger.error("Error message");
 		logger.warn("warn message");
 		logger.fatal("Fatal message");
+		System.out.println("in Log4jDemo class github changes");
 		
 		//for Fatal message use try catch
 		DivisionClass dc=new DivisionClass();
