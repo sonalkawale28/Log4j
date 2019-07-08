@@ -1,0 +1,12 @@
+2019-06-26 14:02:20 INFO  Log4jDemo:11 - Info message
+2019-06-26 14:02:20 DEBUG Log4jDemo:12 - Debug message
+2019-06-26 14:02:20 ERROR Log4jDemo:13 - Error message
+2019-06-26 14:02:20 WARN  Log4jDemo:14 - warn message
+2019-06-26 14:02:20 FATAL Log4jDemo:15 - Fatal message
+2019-06-26 14:07:56 INFO  Log4jDemo:11 - Info message
+2019-06-26 14:07:56 DEBUG Log4jDemo:12 - Debug message
+2019-06-26 14:07:56 ERROR Log4jDemo:13 - Error message
+2019-06-26 14:07:56 WARN  Log4jDemo:14 - warn message
+2019-06-26 14:07:56 FATAL Log4jDemo:15 - Fatal message
+2019-06-26 14:07:56 INFO  class:10 - Information message
+2019-06-26 14:07:56 FATAL Log4jDemo:30 - Catch block is executed successfully
