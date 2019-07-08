@@ -14,7 +14,7 @@ public class Log4jDemo {
 		logger.warn("warn message");
 		logger.fatal("Fatal message");
 		System.out.println("in Log4jDemo class github changes");
-		
+		System.out.println("pushing data from github to eclipse");
 		//for Fatal message use try catch
 		DivisionClass dc=new DivisionClass();
 		try
